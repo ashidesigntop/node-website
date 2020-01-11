@@ -4,6 +4,7 @@
   "description": "(hello.js)",
   "main": "\u001b[A\u001b[hello.js)",
   "scripts": {
+    "start" : "node hello.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
