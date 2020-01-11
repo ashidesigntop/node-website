@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "10.15.0",
+  "description": "(hello.js)",
+  "main": "\u001b[A\u001b[hello.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashidesigntop/node-website.git"
+  },
+  "author": "Ashish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashidesigntop/node-website/issues"
+  },
+  "homepage": "https://github.com/ashidesigntop/node-website#readme"
+}
